@@ -1,6 +1,6 @@
 {
-  "name": "@cosmos/binance",
-  "version": "1.0.4",
+  "name": "@cosmosoutman/binance",
+  "version": "1.0.5",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/cosmosoutman/binance"
   },
-  "website": "https://github.com/cosmosoutman/binance.git",
+  "website": "https://github.com/CosmosOutman/binance.git",
   "keywords": [
     "binance",
     "client",
