@@ -4,6 +4,7 @@ import { sleep } from '@moncici/sleep';
 import { formatTimestamp } from '@moncici/date-time-processor';
 import { notify } from 'feishu-notifier';
 import { log } from '@moncici/log';
+import {ethers} from "ethers";
 
 const retryDuration = 1000;
 
